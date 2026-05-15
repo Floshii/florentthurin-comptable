@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/comptable",
+      "destination": "/comptable/",
+      "permanent": false
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/comptable/:path*",
+      "destination": "https://florentthurin-comptable-aicontenders-projects.vercel.app/:path*"
+    }
+  ]
+}
