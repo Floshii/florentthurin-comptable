@@ -1,4 +1,7 @@
 {
+  "rewrites": [
+    { "source": "/comptable/(.*)", "destination": "/comptable/$1" }
+  ],
   "headers": [
     {
       "source": "/(.*)",
