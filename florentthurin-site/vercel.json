@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    {
+      "source": "/comptable",
+      "destination": "/comptable/",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
