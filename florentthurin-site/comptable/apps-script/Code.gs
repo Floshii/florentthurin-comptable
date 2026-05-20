@@ -13,7 +13,7 @@
 // ─── Configuration ────────────────────────────────────────────────
 
 const SHEET_ID      = "1barmgxB5oI4NDW1Y4ou15w5zAQHtB5-aTYvMwCVNY3w";
-const NOTIFY_EMAIL  = "florent@florentthurin.com";
+const NOTIFY_EMAIL  = "intern@florentthurin.com";
 const CALENDLY_URL  = "https://calendly.com/florent-19/appel-decouverte-clone";
 
 // ─── Paramètres métier (miroir de calculator.js — doit rester synchronisé) ──
