@@ -45,6 +45,7 @@
 /* ============ Header / nav ============ */
 
 .site-header {
+  font-family: var(--font-sans);
   display: flex;
   justify-content: space-between;
   align-items: center;
