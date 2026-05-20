@@ -4,6 +4,11 @@
       "source": "/comptable",
       "destination": "/comptable/",
       "permanent": true
+    },
+    {
+      "source": "/blog",
+      "destination": "/blog/",
+      "permanent": true
     }
   ],
   "headers": [

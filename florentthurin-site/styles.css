@@ -92,6 +92,19 @@ ul, ol { list-style: none; }
   gap: 16px;
 }
 
+.nav-link {
+  font-family: var(--font);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.nav-link:hover {
+  color: var(--accent);
+}
+
 .lang-switch {
   font-family: var(--font);
   font-size: 13px;
